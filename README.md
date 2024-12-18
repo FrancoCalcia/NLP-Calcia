@@ -51,7 +51,7 @@ El agente evalúa consultas complejas que requieren combinar varias herramientas
 
 ### Pasos para ejecutar:
 1. Haz clic en el siguiente enlace para abrir el cuaderno Jupyter en Google Colab:  
-   [TP2_Viticulture.ipynb](https://colab.research.google.com/drive/1RCz8d6-ExaSZP8XdxxkD0_19C0bUgRy9?usp=sharing).
+   [TP2_Viticulture.ipynb](https://colab.research.google.com/drive/1HfyHf186mYeJQs1EYhxmA7tde3Htx0u-?usp=sharing).
 2. Una vez abierto, selecciona `Archivo > Guardar una copia en Drive` si deseas trabajar en tu propio entorno.
 3. Ejecuta cada celda del cuaderno en orden.
 4. Asegúrate de que los recursos y datasets externos se descarguen correctamente desde el código.
