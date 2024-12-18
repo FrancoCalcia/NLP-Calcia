@@ -86,12 +86,5 @@ El agente evalúa consultas complejas que requieren combinar varias herramientas
 
 - **Nota importante**: Este proyecto fue desarrollado como parte de una asignatura académica. Las fuentes y herramientas cumplen con los requerimientos establecidos.
 
----
-
-
-## ✍️ Autor
-
-**Franco Calcia**  
-Trabajo práctico individual para la materia.
 
 
