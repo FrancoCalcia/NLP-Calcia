@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ex="http://viticulture.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://viticulture.org/Viticulture">
+    <rdf:type rdf:resource="http://viticulture.org/Game"/>
+    <ex:DiseñadoPor rdf:resource="http://viticulture.org/Jamey_Stegmaier"/>
+    <ex:DiseñadoPor rdf:resource="http://viticulture.org/Alan_Stone"/>
+    <ex:artPor rdf:resource="http://viticulture.org/Jacqui_Davis"/>
+    <ex:artPor rdf:resource="http://viticulture.org/David_Montgomery"/>
+    <ex:artPor rdf:resource="http://viticulture.org/Beth_Sobel"/>
+    <ex:publicadoPor rdf:resource="http://viticulture.org/Stonemaier_Games"/>
+    <ex:publicadoPor rdf:resource="http://viticulture.org/One_Moment_Games"/>
+    <ex:publicadoPor rdf:resource="http://viticulture.org/Regatul_Jocurilor"/>
+    <ex:TieneCategoria rdf:resource="http://viticulture.org/Economic"/>
+    <ex:TieneCategoria rdf:resource="http://viticulture.org/Farming"/>
+    <ex:PerteneceALaFamilia rdf:resource="http://viticulture.org/Country%3A_Italy"/>
+    <ex:PerteneceALaFamilia rdf:resource="http://viticulture.org/Crowdfunding%3A_Kickstarter"/>
+    <ex:PerteneceALaFamilia rdf:resource="http://viticulture.org/Digital_Implementations%3A_Google_Play"/>
+    <ex:PerteneceALaFamilia rdf:resource="http://viticulture.org/Digital_Implementations%3A_TableTop_Simulator_Mod_%28TTS%29"/>
+    <ex:PerteneceALaFamilia rdf:resource="http://viticulture.org/Food_%26_Drink%3A_Wine"/>
+    <ex:PerteneceALaFamilia rdf:resource="http://viticulture.org/Game%3A_Viticulture"/>
+    <ex:TieneMecanica rdf:resource="http://viticulture.org/Contracts"/>
+    <ex:TieneMecanica rdf:resource="http://viticulture.org/Hand_Management"/>
+    <ex:TieneMecanica rdf:resource="http://viticulture.org/Income"/>
+    <ex:TieneMecanica rdf:resource="http://viticulture.org/Race"/>
+    <ex:TieneMecanica rdf:resource="http://viticulture.org/Turn_Order%3A_Progressive"/>
+    <ex:TieneMecanica rdf:resource="http://viticulture.org/Worker_Placement"/>
+    <ex:IlustradoPor rdf:resource="http://viticulture.org/Christine_Santana"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Stonemaier_Games">
+    <rdf:type rdf:resource="http://viticulture.org/Publicador"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Digital_Implementations%3A_TableTop_Simulator_Mod_%28TTS%29">
+    <rdf:type rdf:resource="http://viticulture.org/Familia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Crowdfunding%3A_Kickstarter">
+    <rdf:type rdf:resource="http://viticulture.org/Familia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Game%3A_Viticulture">
+    <rdf:type rdf:resource="http://viticulture.org/Familia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Economic">
+    <rdf:type rdf:resource="http://viticulture.org/Categoria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Jacqui_Davis">
+    <rdf:type rdf:resource="http://viticulture.org/Artista"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Turn_Order%3A_Progressive">
+    <rdf:type rdf:resource="http://viticulture.org/Mecanica"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Hand_Management">
+    <rdf:type rdf:resource="http://viticulture.org/Mecanica"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/One_Moment_Games">
+    <rdf:type rdf:resource="http://viticulture.org/Publicador"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Contracts">
+    <rdf:type rdf:resource="http://viticulture.org/Mecanica"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Alan_Stone">
+    <rdf:type rdf:resource="http://viticulture.org/Diseñador"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Farming">
+    <rdf:type rdf:resource="http://viticulture.org/Categoria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Christine_Santana">
+    <rdf:type rdf:resource="http://viticulture.org/Ilustrador"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Regatul_Jocurilor">
+    <rdf:type rdf:resource="http://viticulture.org/Publicador"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Worker_Placement">
+    <rdf:type rdf:resource="http://viticulture.org/Mecanica"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Jamey_Stegmaier">
+    <rdf:type rdf:resource="http://viticulture.org/Diseñador"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Digital_Implementations%3A_Google_Play">
+    <rdf:type rdf:resource="http://viticulture.org/Familia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Income">
+    <rdf:type rdf:resource="http://viticulture.org/Mecanica"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Race">
+    <rdf:type rdf:resource="http://viticulture.org/Mecanica"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/David_Montgomery">
+    <rdf:type rdf:resource="http://viticulture.org/Artista"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Country%3A_Italy">
+    <rdf:type rdf:resource="http://viticulture.org/Familia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Beth_Sobel">
+    <rdf:type rdf:resource="http://viticulture.org/Artista"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viticulture.org/Food_%26_Drink%3A_Wine">
+    <rdf:type rdf:resource="http://viticulture.org/Familia"/>
+  </rdf:Description>
+</rdf:RDF>
